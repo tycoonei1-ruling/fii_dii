@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "the-webbing-483304-a6",
+  "private_key_id": "100773e3fdfb209a949b2516f22e7ac7de8641d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDA4qyA5L/4+mT6\nZlFM8w0o+kzxC/c6YWDd/89v55GeMS0CRAGHxvlJxWTJnAu8Py9r2V4zBMHsxLMv\nxwGjZRbFKBl8RDpzxCXaeNE8LqozODEMafFg7JudeE8vCf3koGth1jBKAb0xF0ff\npHcV/+rjfNtfRFUt3YxDkwLjLdtcKGrqL4wdaSDqYXk51quMan5ah9yxxBE1DXHn\n/K164ZTknhozaCq8HuwTCwv5UyOAjp1wVTycDx+flCUuwANwH+DItfG6rTAEJBnM\nC5KDaH3swRD9CMO1rHz9/ftJ7L0maWoYIlT9WMLGqI5Z1IPcLr5MsEggju02nu9Y\nO1JjcjahAgMBAAECggEAWLNk1NldFug/K4+F77cN5DxGycrQ5H4Hh8+t2y5IntDK\ne/I+Kexsk2o9ESG7m9QKwLPzR872RyWlqWEA9dz0/bGVFrphjv8y0SciQWTMTEWY\n+LZ3lDT60w2SjHUx1sOW3iUbi80E7eBg4w3E3c8Ue4zdbRAFg9QQPrsKZuKdr+Dx\nDCzgVVWjI9GUvz9nHYO1gou5n6mDMyZBlUlloDpiwPss2IAoopKFPat7DytNV8mc\nvi7SYj7Sc90pRRwz7TMwB8wu7UHmtVj/VXW6V5jJ5I7vn1cW0qABekPaI9vZp2xw\nxDNNIl8WBWLD++mJz2sV8FWTI+7xI7uwNf1uVe6r6QKBgQD0YqI34wA0IS2Quscq\neWVQ7td1LEoXIbLIUGiLnwfPDwVs6wwMzqyzZPqlQniLm86G8jR5Z2JXcMTncfB7\n8dV1E0wfUbi1Dd+aQARDhTSaeHDQhn1WPzoHIu+Xhi/fa1amOYmCvM+RTtqNRbCQ\ng7ZKenBdzgSMYVjd860BLX9XBwKBgQDKDXTLE/tptQgBSuM2SHWH4eJ8L0Re6fDV\nsrwmQxKkWvlPHjhC8HXXb6AIcIBYkW43Nt1l8lvGV56Gg5kJzOMaZKpFLBP+i2DY\npdvr6/KJuf5MMyUnwt8Vh0qgp2anTkLS8ytjDEtaCFYaxsu27SEjC7nYrO+NgdYH\ndQ4Ivj0zFwKBgQC76Acg/5rNemFFskengfYEF9F019wUEyYbXbA1As+HRt5+E/CM\n/HDP8ynB3e1AM0nGev8cBgEYiK3t467sLlNZlL/oKPbjx8oRGX3tyMNcrpTX0UEY\nCr98c0FT+apfmHHkl8MC0lirOr1S+K29QHjupVw21Eys/8DL0CxLBoeuCwKBgQCJ\n+MZYJjz34fala03cM36OW2EdC+nUJkueoX55YjPIp5a2wBwLGcheZIsTOD9sO2LX\nsU9d3jFtL0fA8vv+BTrPOw5KTd8ZYnOvfRK/906XXbqYrhQhIqDTQp9jNOyUMozP\nH93wtOR/hlHF1xokv6hxFgDCRNUP/Cj6zqPWtJF14QKBgQDcE9YNy2uAo9OPiBjg\nv8Ya7L4hOoWyUHGJhuYwRsU/P+FmDsMKNJ8PGZ+mT+ho8cOyqKO+e8KhnWHHtbLc\n/W7XF5I97A3uboKSPaAc/H6O3Tqy7DN2Dgy039JrXLKDYbI9Z5fEqim4hvdZbbtE\noxl1QyXC9/6dTFirjBJIlWrjvg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets-bot@the-webbing-483304-a6.iam.gserviceaccount.com",
+  "client_id": "114227603648020485399",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets-bot%40the-webbing-483304-a6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
