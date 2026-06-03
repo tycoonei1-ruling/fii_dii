@@ -1,6 +1,9 @@
 requests
 pandas
+gspread
+oauth2client
 sqlalchemy
 psycopg2-binary
+urllib3
 openpyxl
 numpy
